@@ -11,7 +11,7 @@ Data was provided by Onyx Data DataDNA Team and is a public dataset made availab
 *  What were the Top 5 Startups with 5 Sharks?
 *  How many deals have been successful over the seasons and the number of startups that have had their dream deals? 
 *  What were the Top 5 Startups deal valuation?
-*  What was the rate of striking a royalty deal with the Investors?
+*  How was the royalty deals with the Investors over the season?
 ## Tools used
 *  Excel
 *  Tableau
@@ -24,7 +24,7 @@ Data was provided by Onyx Data DataDNA Team and is a public dataset made availab
 *  Here are some **key metrics** from the analysis.
 ![Screenshot (244)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/a50ee67f-2261-4fc0-9c85-7ebcda600b97)
 
-*  We could see an upward trend  from the start of the season till the 14th season. The success rate increased from **42.19%** to **71.26%**.
+*  We could see an upward trend over the seasons. The success rate increased from **42.19%** to **71.26%**.
 ![Screenshot (243)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/4e79cd73-8e95-4676-a83f-4e4f20fa93e9)
 
 *  Majority of the Pitchers over the seasons have been males at a rate of **55.49%** of the total Pitchers.
@@ -36,8 +36,14 @@ Data was provided by Onyx Data DataDNA Team and is a public dataset made availab
 * We could see that more than half of these startups were in **Lifestyle/Home industries** and others were **Health/Wellness** and **Children/Education** which were all parts of the top 5 industries they invested on.
 ![Screenshot (242)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/3535b7be-0916-49a6-99e6-554bd577915c)
 
-**60%** of the total startups have been able to strike  deals with the investors, out of which **6.4%** - 81 have successfully had their dream deals.
+**60%** of the total startups struck deals with the investors, out of which **6.4%** - 81 have successfully had their dream deals.
 ![Screenshot (254)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/c6e2454d-e3f2-4878-a6b0-c3f5a8d6e786)
+
+* Chirp company topped the list with a total of **$36M**
+![Screenshot (241)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/e1a9a64c-2ce9-4c96-83e7-900a36e5e3b5)
+
+* There was an upward trend over the seasons. The royalty deals increased from **1** to **12**.
+![Screenshot (255)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/51b1c25d-d078-4f14-96ef-90ba571193b4)
 
 
 
