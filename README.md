@@ -36,7 +36,7 @@ Data was provided by Onyx Data DataDNA Team and is a public dataset made availab
 * We could see that more than half of these startups were in **Lifestyle/Home industries** and others were **Health/Wellness** and **Children/Education** which were all parts of the top 5 industries they invested on.
 ![Screenshot (242)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/3535b7be-0916-49a6-99e6-554bd577915c)
 
-**60%** of the total startups struck deals with the investors, out of which **6.4%** - 81 have successfully had their dream deals.
+* **60%** of the total startups struck deals with the investors, out of which **6.4%** - 81 have successfully had their dream deals.
 ![Screenshot (254)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/c6e2454d-e3f2-4878-a6b0-c3f5a8d6e786)
 
 * Chirp company topped the list with a total of **$36M**
