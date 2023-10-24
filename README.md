@@ -11,7 +11,7 @@ Data was provided by Onyx Data DataDNA Team and is a public dataset made availab
 *  What were the Top 5 Startups with 5 Sharks? Why?
 *  How many deals have been successful over the seasons and the number of startups that have had their dream deals? 
 *  What were the Top 5 Startups deal valuation?
-*  What were the Top 5 Startups with 5 Sharks?
+*  What was the rate of striking a royalty deal with the Investors?
 ## Tools used
 *  Excel
 *  Tableau
@@ -22,6 +22,8 @@ Data was provided by Onyx Data DataDNA Team and is a public dataset made availab
 
 ## Key Insights
 *  Here are some **key metrics** from the analysis.
+![Screenshot (244)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/a50ee67f-2261-4fc0-9c85-7ebcda600b97)
+
   
 
 
