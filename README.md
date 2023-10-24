@@ -24,6 +24,11 @@ Data was provided by Onyx Data DataDNA Team and is a public dataset made availab
 *  Here are some **key metrics** from the analysis.
 ![Screenshot (244)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/a50ee67f-2261-4fc0-9c85-7ebcda600b97)
 
+*  We could see an upward trend  from the start of the season till the 14th season. The success rate increased from **42.19%** to **71.26%**.
+![Screenshot (243)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/4e79cd73-8e95-4676-a83f-4e4f20fa93e9)
+
+
+
   
 
 
