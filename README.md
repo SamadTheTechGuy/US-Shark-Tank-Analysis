@@ -8,7 +8,7 @@ Data was provided by Onyx Data DataDNA Team and is a public dataset made availab
 *  What was the rate of striking a deal with the Investors?
 *  What were the Pitchers Gender by %?
 *  What were the top Industries the Sharks had invested most on? Why?
-*  What were the Top 5 Startups with 5 Sharks? Why?
+*  What were the Top 5 Startups with 5 Sharks?
 *  How many deals have been successful over the seasons and the number of startups that have had their dream deals? 
 *  What were the Top 5 Startups deal valuation?
 *  What was the rate of striking a royalty deal with the Investors?
@@ -32,6 +32,17 @@ Data was provided by Onyx Data DataDNA Team and is a public dataset made availab
 
 * Food and beverage was the topmost Industry with a total investment of **$51.20M** while electronics ranked the least with **$1.65M**. This clearly tells us that the Investors are highly interested in Food and beverage, lifestyle/home industries, etc. So, future Pitchers/Audience in the electronics industry watching the show should look elsewhere where they could leverage their ideas and possibly have a much more better investment.
 ![Screenshot (240)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/3163e01b-1eb5-4835-a4fc-b5206ead2450)
+
+* We could see that more than half of these startups were in **Lifestyle/Home industries** and others were **Health/Wellness** and **Children/Education** which were all parts of the top 5 industries they invested on.
+![Screenshot (242)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/3535b7be-0916-49a6-99e6-554bd577915c)
+
+**60%** of the total startups have been able to strike  deals with the investors, out of which **6.4%** - 81 have successfully had their dream deals.
+![Screenshot (254)](https://github.com/SamadTheTechGuy/US-Shark-Tank-Analysis/assets/97789215/c6e2454d-e3f2-4878-a6b0-c3f5a8d6e786)
+
+
+
+
+
 
 
  
