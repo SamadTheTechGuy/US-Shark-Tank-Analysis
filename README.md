@@ -3,7 +3,7 @@ This is an analysis of US Shark Tank Business Reality TV Show.
 # Brief Introduction
 US Shark Tank Reality TV Show has been running on air for 14 Seasons where Entrepreneurs pitch out their business ideas to the 6 Sharks - Investors and ask them to invest in their ideas with equities and sometimes royalties. It was a data challenge and was asked to find meaningful insights that has made the Show to last this long. 
 ## Brief Overview of the dataset
-Data was provided by Onyx Data DataDNA Team and is a public dataset made available through kaggle. The dataset was structured and contained 50 columns with more than 1,200 records in CSV format - Season Number, Season Start, Season End, Episode Number, Pitch Number, Original Air Date, etc. Also, the dataset contained data dictionary to help understand the data better.
+Data was provided by Onyx Data DataDNA Team and is a public dataset made available through kaggle. The dataset is structured and contains 50 columns with more than 1,200 records in CSV format - Season Number, Season Start, Season End, Episode Number, Pitch Number, Original Air Date, etc. Also, the dataset contained data dictionary to help understand the data better.
 ## Problem Questions
 *  What was the rate of striking a deal with the Investors?
 *  What were the Pitchers Gender by %?
